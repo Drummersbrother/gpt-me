@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+## Custom for gpt-me
+data
+*.json
+models
+.idea
